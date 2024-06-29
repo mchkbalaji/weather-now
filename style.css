@@ -147,7 +147,8 @@ body{
 }
 
 footer a{
-    margin: 0;
+/*     margin: 0; */
+    padding-bottom: 1rem;
     color:rgb(229, 161, 52);
 }
 
