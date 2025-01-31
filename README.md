@@ -18,3 +18,7 @@ Weather Now is a web application that provides detailed weather information for 
 ## intro
 
 My self Mirthipati Chinni Krishna Balaji
+
+## changed
+
+changed by Dharmik
