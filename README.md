@@ -14,3 +14,7 @@ Weather Now is a web application that provides detailed weather information for 
 - **CSS**: Styles the web page for a visually appealing interface.
 - **JavaScript**: Implements dynamic functionality and interaction.
 - **OpenWeatherMap API**: Fetches real-time weather data based on the user's location.
+
+## intro
+
+My self Mirthipati Chinni Krishna Balaji
