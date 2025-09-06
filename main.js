@@ -34,6 +34,7 @@ setInterval(() => {
 }, 1000);
 
 let timerId = setInterval(() => {document.querySelector("body").style.background = "url('sam-schooler-E9aetBe2w40-unsplash.jpg')";}, 60000);
+const API_KEY = process.env.API_KEY;
 
 getWeatherData()
 function getWeatherData () {
@@ -113,3 +114,4 @@ function showWeatherData (data){
     weatherForecastEl.innerHTML = otherDayForcast;
 
 }
+
