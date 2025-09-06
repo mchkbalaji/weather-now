@@ -12,9 +12,6 @@ const nameG = prompt("Hey, what's your name?", "Elon Musk");
 const days = ['Sunday', 'Monday', 'Tuesday', 'Wednesday', 'Thursday', 'Friday', 'Saturday']
 const months = ['Jan', 'Feb', 'Mar', 'Apr', 'May', 'Jun', 'Jul', 'Aug', 'Sep', 'Oct', 'Nov', 'Dec'];
 
-// const API_KEY ='c58ab98b9068cba0af3226012ddc7c0f';
-const API_KEY ='49cc8c821cd2aff9af04c9f98c36eb74';
-
 
 greeting.innerHTML = 'Hello, ' + nameG + '!'
 
@@ -114,4 +111,5 @@ function showWeatherData (data){
 
 
     weatherForecastEl.innerHTML = otherDayForcast;
+
 }
